@@ -1,0 +1,21 @@
+asignatura,grupo,profesor,aula,dia,hora
+Matemática,1A,Laura Pérez,A-101,Lunes,08:00-09:30
+Español,1A,Mario Díaz,A-102,Lunes,09:45-11:15
+Historia,1A,Ana Gómez,A-103,Martes,08:00-09:30
+Física,1A,Pedro Ruiz,LAB-1,Miércoles,10:00-11:30
+Inglés,1A,Sara Vidal,A-104,Jueves,08:00-09:30
+Educación Física,1A,Raúl Mena,GIM,Viernes,08:00-09:30
+Programación,2A,Carlos León,LAB-2,Lunes,08:00-09:30
+Bases de Datos,2A,Elena Soto,LAB-3,Martes,10:00-11:30
+Matemática Discreta,2A,Laura Pérez,B-201,Miércoles,08:00-09:30
+Redes,2A,Jorge Rivas,LAB-2,Jueves,10:00-11:30
+Inglés Técnico,2A,Sara Vidal,B-202,Viernes,08:00-09:30
+Inteligencia Artificial,3A,Marta Cruz,LAB-4,Lunes,08:00-09:30
+Ingeniería de Software,3A,Luis Ortega,C-301,Lunes,09:45-11:15
+Sistemas Operativos,3A,Jorge Rivas,LAB-2,Lunes,11:30-13:00
+Compiladores,3A,Elena Soto,C-302,Martes,08:00-09:30
+Inteligencia Artificial,3A,Marta Cruz,LAB-4,Miércoles,10:00-11:30
+Ingeniería de Software,3A,Luis Ortega,C-301,Jueves,08:00-09:30
+Seguridad Informática,3B,Raquel Núñez,LAB-5,Lunes,10:00-11:30
+Compiladores,3B,Elena Soto,C-302,Martes,10:00-11:30
+Sistemas Operativos,3B,Jorge Rivas,LAB-2,Jueves,11:30-13:00
